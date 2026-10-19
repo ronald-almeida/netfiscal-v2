@@ -1,8 +1,8 @@
 const API_BASE = 'https://api.blackcatoficial.com/api';
 
 const PRODUCT = Object.freeze({
-  name: '#MBA - TURMA 6 (10/26)',
-  description: 'MBA Reforma Tributária & Gestão Tributária - Turma 6 (10/26)',
+  name: 'Pós-Graduação em Planejamento Tributário',
+  description: 'Pós-Graduação em Planejamento Tributário',
   amount: 49770,
   currency: 'BRL'
 });
